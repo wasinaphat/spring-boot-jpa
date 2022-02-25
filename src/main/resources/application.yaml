@@ -1,0 +1,10 @@
+
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/spring
+    username: root
+    password: rootroot
+  jpa:
+    database: mysql
+    show-sql: true
